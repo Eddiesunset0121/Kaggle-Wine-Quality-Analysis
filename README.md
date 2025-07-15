@@ -1,5 +1,7 @@
 # Project 4 : Wine Quality Prediction: Multiple Classifiers Analysis
 
+![wine_quality](https://github.com/user-attachments/assets/02db3f3a-0445-401e-a61f-62360b169142)
+
 🔷 Project Objective:
 
 This project analyzes the public Red Wine Quality dataset from Kaggle to determine the key chemical properties that influence a wine's perceived quality. The primary goal is to build an accurate classification model that can predict whether a wine is of 'low', 'medium', or 'high' quality based on its physicochemical attributes.
