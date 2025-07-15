@@ -1,6 +1,7 @@
 # Project 4 : Wine Quality Prediction: Multiple Classifiers Analysis
 
 🔷 Project Objective:
+
 This project analyzes the public Red Wine Quality dataset from Kaggle to determine the key chemical properties that influence a wine's perceived quality. The primary goal is to build an accurate classification model that can predict whether a wine is of 'low', 'medium', or 'high' quality based on its physicochemical attributes.
 
 🌟 Key Skills & Tools
@@ -14,6 +15,7 @@ This project analyzes the public Red Wine Quality dataset from Kaggle to determi
 - Core Competencies: Exploratory Data Analysis (EDA), Feature Engineering (Quantile Binning), Predictive Modeling, Hyperparameter Tuning, Model Evaluation.
 
 🌿 Analysis & Key Findings
+
 The analysis involved a comprehensive EDA, a baseline comparison of seven different classification models, and hyperparameter tuning to develop a robust and accurate final model.
 
 🌿 Foundational Analysis & Feature Engineering:
