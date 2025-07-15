@@ -16,7 +16,7 @@ This project analyzes the public Red Wine Quality dataset from Kaggle to determi
 
 🌿 Analysis & Key Findings
 
-The analysis involved a comprehensive EDA, a baseline comparison of seven different classification models, and hyperparameter tuning to develop a robust and accurate final model.
+- The analysis involved a comprehensive EDA, a baseline comparison of seven different classification models, and hyperparameter tuning to develop a robust and accurate final model.
 
 🌿 Foundational Analysis & Feature Engineering:
 
