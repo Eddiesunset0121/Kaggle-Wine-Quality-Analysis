@@ -1,6 +1,6 @@
 # Project 4 : Wine Quality Prediction: Multiple Classifiers Analysis
 
-![wine_quality](https://github.com/user-attachments/assets/02db3f3a-0445-401e-a61f-62360b169142)
+![wine_quality_2](https://github.com/user-attachments/assets/eeb2feef-f00c-46e1-91b1-d149bd5185a2)
 
 🔷 Project Objective:
 
