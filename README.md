@@ -36,7 +36,7 @@ This project analyzes the public Red Wine Quality dataset from Kaggle to determi
 
 - Hyperparameter tuning was performed on the Random Forest model using GridSearchCV.
 
-- The final, tuned model demonstrates strong predictive power, achieving an overall accuracy of 75% and a weighted average F1-score of 0.74 on unseen test data.
+- The final, tuned model demonstrates strong predictive power, achieving an overall accuracy of 75% and a weighted average F1-score of 0.75 on unseen test data.
 
 - The confusion matrix shows the model is particularly effective at identifying 'low' quality wines, with a high precision of 0.80 and recall of 0.83 for this class.
 
